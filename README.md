@@ -21,6 +21,8 @@ Whenever I come back to Unity after a break, this is my go-to guide to remember 
 ---
 
 ## 📂 Folder Structure (planned)
+
+```plaintext
 unity-quick-reference/
 ├── 00_getting_started.md
 ├── 01_player_movement.md
@@ -31,6 +33,7 @@ unity-quick-reference/
 ├── 06_audio.md
 ├── 07_build_settings.md
 └── 08_extra_tips.md
+
 
 
 
